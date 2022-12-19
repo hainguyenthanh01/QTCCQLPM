@@ -164,7 +164,6 @@
                     - Nguyễn Đức Anh Cường <br>
                     - Phạm Ngọc Đại <br>
                 </p>
-                <p> lop 70dctt22</p>
             </div>
         </div>
         <hr>
